@@ -1,0 +1,4 @@
+[2026-01-11 14:57:51,667] 97 werkzeug - WARNING -  * Debugger is active!
+[2026-01-11 14:57:51,674] 97 werkzeug - INFO -  * Debugger PIN: 121-169-782
+[2026-01-11 14:58:59,283] 97 werkzeug - INFO -  * Detected change in 'C:\\Python\\End-to-End_Projects\\app.py', reloading
+[2026-01-11 14:58:59,284] 97 werkzeug - INFO -  * Detected change in 'C:\\Python\\End-to-End_Projects\\app.py', reloading
