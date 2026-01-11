@@ -1,6 +1,0 @@
-[2026-01-11 14:52:07,222] 97 werkzeug - WARNING -  * Debugger is active!
-[2026-01-11 14:52:07,226] 97 werkzeug - INFO -  * Debugger PIN: 121-169-782
-[2026-01-11 14:56:05,349] 97 werkzeug - INFO - 127.0.0.1 - - [11/Jan/2026 14:56:05] "GET / HTTP/1.1" 200 -
-[2026-01-11 14:56:05,388] 97 werkzeug - INFO - 127.0.0.1 - - [11/Jan/2026 14:56:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
-[2026-01-11 14:56:55,290] 97 werkzeug - INFO - 127.0.0.1 - - [11/Jan/2026 14:56:55] "[33mGET /predictdata HTTP/1.1[0m" 404 -
-[2026-01-11 14:57:48,782] 97 werkzeug - INFO -  * Detected change in 'C:\\Python\\End-to-End_Projects\\app.py', reloading
