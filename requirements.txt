@@ -1,9 +1,25 @@
-pandas 
-numpy 
-seaborn
-matplotlib
-scikit-learn
+# pandas 
+# numpy 
+# # seaborn
+# matplotlib
+# scikit-learn
+# catboost
+# dill
+# gradio
+# # flask
+# # -e .
+
+
+gradio==4.36.1
+huggingface_hub==0.20.3
+scikit-learn==1.5.1
+numpy
+pandas
 catboost
-dill
-flask
-# -e .
+
+
+
+
+
+
+# hugging face token -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

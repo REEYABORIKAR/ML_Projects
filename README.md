@@ -1,3 +1,15 @@
+---
+title: Student Exam Performance Predictor
+emoji: 📊
+colorFrom: blue
+colorTo: green
+sdk: gradio
+sdk_version: "4.44.0"
+app_file: app.py
+pinned: false
+---
+
+
 ## END to END Machine Learning Project
 Based on the structure and content of your repository, here is a comprehensive `README.md` file designed for your end-to-end Machine Learning project.
 
